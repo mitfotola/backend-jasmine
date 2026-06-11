@@ -34,6 +34,6 @@ Notes:
 - Add caching for popular list filters.
 
 ## AI Usage Log
-- Project scaffolding and file generation were AI-assisted.
-- API structure, seed dataset, and README content were AI-assisted.
-- Manual review and final verification are still expected before shipping.
+- Project scaffolding and route structure were AI-assisted.
+- The API client, URL-state controls, and UI components were AI-assisted.
+# Copilot - Clude
